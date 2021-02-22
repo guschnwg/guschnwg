@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am currently working with Alexa skills.
+
+[We're not really strangers game](https://github.com/guschnwg/wnrs-alexa-skill)
+[Youtube player](https://github.com/guschnwg/youtube-alexa-skill)
+
+If you have any suggestions to new ones or ideas to improve this ones just create an Issue in those repos.
+Help me not get bored during this pandemic.
+
 <!--
 **guschnwg/guschnwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
